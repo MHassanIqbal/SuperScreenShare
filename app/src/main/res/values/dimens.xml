@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="head_main">240dp</dimen>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="activity_margin_small">8dp</dimen>
+    <dimen name="activity_margin_small_extra">4dp</dimen>
+    <dimen name="head_send">64dp</dimen>
+    <dimen name="icon_app">64dp</dimen>
+    <dimen name="icon_image">120dp</dimen>
+    <dimen name="icon_video_width">90dp</dimen>
+    <dimen name="icon_video_height">60dp</dimen>
+</resources>
